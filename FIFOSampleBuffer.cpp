@@ -36,11 +36,12 @@
 //
 ////////////////////////////////////////////////////////////////////////////////
 
-#include <stdlib.h>
-#include <memory.h>
-#include <string.h>
-#include <assert.h>
+// #include <stdlib.h>
+// #include <memory.h>
+// #include <string.h>
+// #include <assert.h>
 
+#include "basicmaths.h"
 #include "FIFOSampleBuffer.h"
 
 using namespace soundtouch;

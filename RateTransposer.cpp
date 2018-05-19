@@ -31,10 +31,11 @@
 //
 ////////////////////////////////////////////////////////////////////////////////
 
-#include <memory.h>
-#include <assert.h>
-#include <stdlib.h>
-#include <stdio.h>
+// #include <memory.h>
+// #include <assert.h>
+// #include <stdlib.h>
+// #include <stdio.h>
+#include "basicmaths.h"
 #include "RateTransposer.h"
 #include "InterpolateLinear.h"
 #include "InterpolateCubic.h"

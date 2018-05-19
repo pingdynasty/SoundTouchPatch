@@ -29,8 +29,9 @@
 //
 ////////////////////////////////////////////////////////////////////////////////
 
-#include <stddef.h>
-#include <math.h>
+// #include <stddef.h>
+// #include <math.h>
+#include "basicmaths.h"
 #include "InterpolateCubic.h"
 #include "STTypes.h"
 

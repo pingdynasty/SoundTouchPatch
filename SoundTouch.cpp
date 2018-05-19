@@ -62,11 +62,11 @@
 //
 ////////////////////////////////////////////////////////////////////////////////
 
-#include <assert.h>
-#include <stdlib.h>
-#include <memory.h>
-#include <math.h>
-#include <stdio.h>
+// #include <assert.h>
+// #include <stdlib.h>
+// #include <memory.h>
+// #include <math.h>
+// #include <stdio.h>
 
 #include "SoundTouch.h"
 #include "TDStretch.h"
@@ -82,7 +82,7 @@ using namespace soundtouch;
 /// Print library version string for autoconf
 extern "C" void soundtouch_ac_test()
 {
-    printf("SoundTouch Version: %s\n",SOUNDTOUCH_VERSION);
+    // printf("SoundTouch Version: %s\n",SOUNDTOUCH_VERSION);
 } 
 
 

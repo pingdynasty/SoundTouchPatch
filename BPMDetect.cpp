@@ -49,10 +49,13 @@
 
 #define _USE_MATH_DEFINES
 
-#include <math.h>
-#include <assert.h>
-#include <string.h>
-#include <stdio.h>
+#include <float.h>
+// #include <stdint.h>
+// #include <math.h>
+// #include <assert.h>
+// #include <string.h>
+// #include <stdio.h>
+#include "basicmaths.h"
 #include "FIFOSampleBuffer.h"
 #include "PeakFinder.h"
 #include "BPMDetect.h"

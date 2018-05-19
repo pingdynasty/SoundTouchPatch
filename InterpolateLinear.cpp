@@ -29,8 +29,9 @@
 //
 ////////////////////////////////////////////////////////////////////////////////
 
-#include <assert.h>
-#include <stdlib.h>
+// #include <assert.h>
+// #include <stdlib.h>
+#include "basicmaths.h"
 #include "InterpolateLinear.h"
 
 using namespace soundtouch;

@@ -38,7 +38,7 @@
 #ifndef RateTransposer_H
 #define RateTransposer_H
 
-#include <stddef.h>
+/* #include <stddef.h> */
 #include "AAFilter.h"
 #include "FIFOSamplePipe.h"
 #include "FIFOSampleBuffer.h"

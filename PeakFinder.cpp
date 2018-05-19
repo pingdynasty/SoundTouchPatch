@@ -32,8 +32,11 @@
 //
 ////////////////////////////////////////////////////////////////////////////////
 
-#include <math.h>
-#include <assert.h>
+// #include <math.h>
+// #include <assert.h>
+
+#include "basicmaths.h"
+#define assert(x) 
 
 #include "PeakFinder.h"
 

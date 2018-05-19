@@ -50,9 +50,13 @@
 #ifndef _BPMDetect_H_
 #define _BPMDetect_H_
 
-#include <vector>
 #include "STTypes.h"
 #include "FIFOSampleBuffer.h"
+
+#undef min
+#undef max
+#undef abs
+#include <vector>
 
 namespace soundtouch
 {

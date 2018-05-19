@@ -38,10 +38,11 @@
 //
 ////////////////////////////////////////////////////////////////////////////////
 
-#include <memory.h>
-#include <assert.h>
-#include <math.h>
-#include <stdlib.h>
+// #include <memory.h>
+// #include <assert.h>
+// #include <math.h>
+// #include <stdlib.h>
+#include "basicmaths.h"
 #include "FIRFilter.h"
 #include "cpu_detect.h"
 

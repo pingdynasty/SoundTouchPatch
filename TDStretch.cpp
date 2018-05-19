@@ -40,11 +40,12 @@
 //
 ////////////////////////////////////////////////////////////////////////////////
 
-#include <string.h>
-#include <limits.h>
-#include <assert.h>
-#include <math.h>
+// #include <string.h>
+// #include <limits.h>
+// #include <assert.h>
+// #include <math.h>
 #include <float.h>
+#include "basicmaths.h"
 
 #include "STTypes.h"
 #include "cpu_detect.h"

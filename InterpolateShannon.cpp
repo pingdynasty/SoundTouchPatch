@@ -34,7 +34,8 @@
 //
 ////////////////////////////////////////////////////////////////////////////////
 
-#include <math.h>
+// #include <math.h>
+#include "basicmaths.h"
 #include "InterpolateShannon.h"
 #include "STTypes.h"
 
